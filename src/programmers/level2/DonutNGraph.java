@@ -35,5 +35,4 @@ public class DonutNGraph {
 
         return answer;
     }
-
 }
