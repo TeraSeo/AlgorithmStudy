@@ -74,7 +74,6 @@ public class KevinBacon {
                 if (!isVisited[num]) {
                     isVisited[num] = true;
                     array[num] = array[poll] + 1;
-                    isVisited[num] = true;
                     queue.add(num);
                 }
             }
